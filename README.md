@@ -4,10 +4,12 @@ Directions
 This exercise will help you understand how to use JavaScript functions and algorithms.
 
 Step 1: Set up your project.
+
 Create an Calculator.html file.
+
 Create a Calculator.js file and link it to your Calculator.html file.
 
-Step 3: Write the JavaScript
+Step 2: Write the JavaScript
 
 This is the main part of the project. You will have to react to click events on each calculator button and update the display. Start small by making the numbers work, then move on to the operators, decimal button, and equals button.
 
